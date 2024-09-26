@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "game": "deno run main.ts"
+  }
+}
