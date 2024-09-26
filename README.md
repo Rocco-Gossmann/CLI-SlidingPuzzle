@@ -36,7 +36,7 @@ b| 4 7 6 |
 c|   2 1 |
  ---------
 ```
-> [!info]
+> [!note]
 > The numbers sequence inside the field are randomized each start.
 
 You then enter the coordinates of the tile you wish to move,  
